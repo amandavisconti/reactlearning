@@ -1,0 +1,9 @@
+0.4 note not done yet https://fullstackopen.com/en/part0/fundamentals_of_web_apps
+Use text here: https://fullstackopen.com/en/part0/fundamentals_of_web_apps#forms-and-http-post
+The diagram does not have to be a sequence diagram. Any sensible way of presenting the events is fine.
+
+0.5: Single page app not done yet https://fullstackopen.com/en/part0/fundamentals_of_web_apps
+Create a diagram depicting the situation where the user goes to the single page app version of the notes app at https://fullstack-exampleapp.herokuapp.com/spa.
+
+0.6: New note not yet done
+Create a diagram depicting the situation, where user creates a new note using the single page version of the app.
